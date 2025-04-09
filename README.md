@@ -1,2 +1,3 @@
 # Bank-Loan--Project
-The purpose of this project is to try a Neural Network on Universal Bank Datasets and determine the likelihood of having not Personal Loan for future clients. 
+A Bank is looking to predict an important class( Non- Personal Loan) for strategic decisions in the Marketing Department. Note that the model used in this project is Neural Network SDG Optimizer but it could be improved for better decisions especially knowing that Bank would prefer Recall Score to be maximized. The Higher the Recall score is, the better the chances of minimizing false Negative. 
+Hence, the focus is on increasing Recall or minimizing the false Negative or in other words identifying the True Positive(i.e. Class 0) so that the bank can improve the Marketing strategy of maing customers to accept Personal Loan. 
